@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebEditor", "WebEditor\WebEditor.csproj", "{27FEE249-F067-416A-B564-316F5447F8E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RichTextBoxEditor", "RichTextBoxEditor\RichTextBoxEditor.csproj", "{EE97EA73-18B6-4551-B624-5BDF5788AC71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27FEE249-F067-416A-B564-316F5447F8E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FEE249-F067-416A-B564-316F5447F8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FEE249-F067-416A-B564-316F5447F8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FEE249-F067-416A-B564-316F5447F8E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE97EA73-18B6-4551-B624-5BDF5788AC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE97EA73-18B6-4551-B624-5BDF5788AC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE97EA73-18B6-4551-B624-5BDF5788AC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE97EA73-18B6-4551-B624-5BDF5788AC71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
